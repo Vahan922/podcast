@@ -1,0 +1,337 @@
+2024-12-20 01:07:46 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 01:07:46 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 01:07:46 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 01:07:46 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 01:07:46 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 01:07:46 - INFO  - User - User user print:log4j This is public data
+2024-12-20 01:07:46 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 01:10:50 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 01:10:50 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 01:10:50 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 01:10:50 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 01:10:50 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 01:10:50 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 01:10:50 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:10:50 - INFO  - User - User user print:log4j This is public data
+2024-12-20 01:10:50 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 01:10:50 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:10:50 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 01:12:56 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 01:12:57 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 01:12:57 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 01:12:57 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 01:12:57 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 01:12:57 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 01:12:57 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to QA }Data.
+2024-12-20 01:12:57 - INFO  - User - User user print:log4j This is public data
+2024-12-20 01:12:57 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 01:12:57 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to USER }Data.
+2024-12-20 01:12:57 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 01:31:24 - INFO  - Main - Enter your name
+2024-12-20 01:31:34 - INFO  - Main - Enter your role type
+2024-12-20 01:31:46 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 01:31:46 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 01:31:46 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 01:31:46 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 01:31:46 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 01:31:46 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 01:31:46 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:31:46 - INFO  - User - User user print:log4j This is public data
+2024-12-20 01:31:46 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 01:31:46 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:31:46 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 01:31:46 - INFO  - User - Vahan user print:log4j This is sensitive data
+2024-12-20 01:32:16 - INFO  - Main - Enter your name
+2024-12-20 01:32:23 - INFO  - Main - Enter your role type
+2024-12-20 01:32:42 - INFO  - Main - Enter your name
+2024-12-20 01:33:04 - INFO  - Main - Enter your role type
+2024-12-20 01:33:11 - INFO  - User - DaviMusayelyan Luse Vahanovnna user print:log4j This is sensitive data
+2024-12-20 01:33:54 - INFO  - Main - Enter your name
+2024-12-20 01:34:03 - INFO  - Main - Enter your role type
+2024-12-20 01:34:07 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 01:34:07 - ERROR - User - Information closed for you, MR/MS RuRuzan Hovsepyan. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:35:38 - INFO  - Main - Enter your name
+2024-12-20 01:35:47 - INFO  - Main - Enter your role type
+2024-12-20 01:36:38 - INFO  - Main - Enter your name
+2024-12-20 01:36:51 - INFO  - Main - Enter your role type (ADMIN,QA,USER)
+2024-12-20 01:36:56 - INFO  - User - Admin user print:log4j 1111111This is public data
+2024-12-20 01:36:56 - INFO  - User - Admin user print:log4j 2222222This is sensitive //mainnn////.   data
+2024-12-20 01:36:56 - INFO  - User - Admin user print:log4j 3333333This is specific data
+2024-12-20 01:36:56 - INFO  - User - QA user print:log4j 1111111This is public data
+2024-12-20 01:36:56 - INFO  - User - QA user print:log4j 2222222This is sensitive //mainnn////.   data
+2024-12-20 01:36:56 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 01:36:56 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:36:56 - INFO  - User - User user print:log4j 1111111This is public data
+2024-12-20 01:36:56 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 01:36:56 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 01:36:56 - INFO  - User - User user print:log4j 3333333This is specific data
+2024-12-20 01:36:56 - INFO  - User - Vahannn user print:log4j 2222222This is sensitive //mainnn////.   data
+2024-12-20 01:42:50 - INFO  - Main - Enter your name
+2024-12-20 01:42:55 - INFO  - Main - Enter your role type (ADMIN,QA,USER)
+2024-12-20 01:43:01 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:07 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:10 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:12 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:17 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:22 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:26 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:28 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 01:43:33 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 02:06:35 - INFO  - Main - Enter your name
+2024-12-20 02:06:45 - INFO  - Main - Enter your role type 1 if you are ADMIN, 2 if you are QA and 3 if you are USER)
+2024-12-20 02:07:00 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 02:07:06 - INFO  - Main - Enter your name
+2024-12-20 02:07:11 - INFO  - Main - Enter your role type 1 if you are ADMIN, 2 if you are QA and 3 if you are USER)
+2024-12-20 02:07:13 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 02:07:30 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 02:09:23 - INFO  - Main - Enter your name
+2024-12-20 02:09:37 - INFO  - Main - Enter your role type 1 if you are ADMIN, 2 if you are QA and 3 if you are USER)
+2024-12-20 02:10:27 - INFO  - Main - Enter your name
+2024-12-20 02:10:28 - INFO  - Main - Enter your role type 1 if you are ADMIN, 2 if you are QA and 3 if you are USER)
+2024-12-20 02:10:36 - INFO  - Main - Enter your role type from one of this options (ADMIN,QA,USER)
+2024-12-20 10:52:43 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 10:52:43 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 10:52:43 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 10:52:43 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 10:52:43 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 10:52:43 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 10:52:43 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:52:43 - INFO  - User - User user print:log4j This is public data
+2024-12-20 10:52:43 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 10:52:43 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:52:43 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 10:53:33 - INFO  - User - Admin user print:log4j This is public data
+2024-12-20 10:53:33 - INFO  - User - Admin user print:log4j This is sensitive data
+2024-12-20 10:53:33 - INFO  - User - Admin user print:log4j This is specific data
+2024-12-20 10:53:33 - INFO  - User - QA user print:log4j This is public data
+2024-12-20 10:53:33 - INFO  - User - QA user print:log4j This is sensitive data
+2024-12-20 10:53:33 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 10:53:33 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:53:33 - INFO  - User - User user print:log4j This is public data
+2024-12-20 10:53:33 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 10:53:33 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:53:33 - INFO  - User - User user print:log4j This is specific data
+2024-12-20 10:54:49 - INFO - User - Admin user print:log4j This is public data
+2024-12-20 10:54:49 - INFO - User - Admin user print:log4j This is sensitive data
+2024-12-20 10:54:49 - INFO - User - Admin user print:log4j This is specific data
+2024-12-20 10:54:49 - INFO - User - QA user print:log4j This is public data
+2024-12-20 10:54:49 - INFO - User - QA user print:log4j This is sensitive data
+2024-12-20 10:54:49 - ERROR - User - Unauthorized access attempt: The [QA can view sensitive data] but doesn't have access to modify SpecificData {A QA can view but not modify sensitive data. }
+2024-12-20 10:54:49 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:54:49 - INFO - User - User user print:log4j This is public data
+2024-12-20 10:54:49 - ERROR - User - Unauthorized access attempt: The [User can only view specific data] but doesn't have access to modify SensitiveData {A USER can view only specific sections. }
+2024-12-20 10:54:49 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 10:54:49 - INFO - User - User user print:log4j This is specific data
+2024-12-20 11:01:07 - INFO - User - Admin user print:log4j This is public data
+2024-12-20 11:01:07 - INFO - User - Admin user print:log4j This is sensitive data
+2024-12-20 11:01:07 - INFO - User - Admin user print:log4j This is specific data
+2024-12-20 11:01:07 - INFO - User - QA user print:log4j This is public data
+2024-12-20 11:01:07 - INFO - User - QA user print:log4j This is sensitive data
+2024-12-20 11:01:07 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:01:07 - INFO - User - User user print:log4j This is public data
+2024-12-20 11:01:07 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:01:07 - INFO - User - User user print:log4j This is specific data
+2024-12-20 11:01:26 - INFO - User - Admin user print:log4j This is public data
+2024-12-20 11:01:26 - INFO - User - Admin user print:log4j This is sensitive data
+2024-12-20 11:01:26 - INFO - User - Admin user print:log4j This is specific data
+2024-12-20 11:01:26 - INFO - User - QA user print:log4j This is public data
+2024-12-20 11:01:26 - INFO - User - QA user print:log4j This is sensitive data
+2024-12-20 11:01:26 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:01:26 - INFO - User - User user print:log4j This is public data
+2024-12-20 11:01:26 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:01:26 - INFO - User - User user print:log4j This is specific data
+2024-12-20 11:02:43 - INFO - User - Admin user print: This is public data
+2024-12-20 11:02:43 - INFO - User - Admin user print: This is sensitive data
+2024-12-20 11:02:43 - INFO - User - Admin user print: This is specific data
+2024-12-20 11:02:43 - INFO - User - QA user print: This is public data
+2024-12-20 11:02:43 - INFO - User - QA user print: This is sensitive data
+2024-12-20 11:02:43 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:02:43 - INFO - User - User user print: This is public data
+2024-12-20 11:02:43 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:02:43 - INFO - User - User user print: This is specific data
+2024-12-20 11:07:36 - INFO - User - Admin user print: This is public data
+2024-12-20 11:07:36 - INFO - User - Admin user print: This is sensitive data
+2024-12-20 11:07:36 - INFO - User - Admin user print: This is specific data
+2024-12-20 11:07:36 - INFO - User - QA user print: This is public data
+2024-12-20 11:07:36 - INFO - User - QA user print: This is sensitive data
+2024-12-20 11:07:36 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:07:36 - INFO - User - User user print: This is public data
+2024-12-20 11:07:36 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:07:36 - INFO - User - User user print: This is specific data
+2024-12-20 11:10:53 - INFO - User - Admin user print: This is public data
+2024-12-20 11:10:53 - INFO - User - Admin user print: This is sensitive data
+2024-12-20 11:10:53 - INFO - User - Admin user print: This is specific data
+2024-12-20 11:10:53 - INFO - User - QA user print: This is public data
+2024-12-20 11:10:53 - INFO - User - QA user print: This is sensitive data
+2024-12-20 11:10:53 - ERROR - User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:10:53 - INFO - User - User user print: This is public data
+2024-12-20 11:10:53 - ERROR - User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:10:53 - INFO - User - User user print: This is specific data
+2024-12-20 11:13:37 [main] INFO  org.User - Admin user print: This is public data
+2024-12-20 11:13:37 [main] INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:13:37 [main] INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:13:37 [main] INFO  org.User - QA user print: This is public data
+2024-12-20 11:13:37 [main] INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:13:37 [main] ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:13:37 [main] INFO  org.User - User user print: This is public data
+2024-12-20 11:13:37 [main] ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:13:37 [main] INFO  org.User - User user print: This is specific data
+2024-12-20 11:15:20 [main] INFO  org.User - Admin user print: This is public data
+2024-12-20 11:15:20 [main] INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:15:20 [main] INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:15:20 [main] INFO  org.User - QA user print: This is public data
+2024-12-20 11:15:20 [main] INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:15:20 [main] ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:15:20 [main] INFO  org.User - User user print: This is public data
+2024-12-20 11:15:20 [main] ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:15:20 [main] INFO  org.User - User user print: This is specific data
+2024-12-20 11:15:36 [main] INFO  org.User - Admin user print: This is public data
+2024-12-20 11:15:36 [main] INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:15:36 [main] INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:15:36 [main] INFO  org.User - QA user print: This is public data
+2024-12-20 11:15:36 [main] INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:15:36 [main] ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:15:36 [main] INFO  org.User - User user print: This is public data
+2024-12-20 11:15:36 [main] ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:15:36 [main] INFO  org.User - User user print: This is specific data
+2024-12-20 11:16:02 [main] INFO  org.User - Admin user print: This is public data
+2024-12-20 11:16:02 [main] INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:16:02 [main] INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:16:02 [main] INFO  org.User - QA user print: This is public data
+2024-12-20 11:16:02 [main] INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:16:02 [main] ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:16:02 [main] INFO  org.User - User user print: This is public data
+2024-12-20 11:16:02 [main] ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:16:02 [main] INFO  org.User - User user print: This is specific data
+2024-12-20 11:16:47 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:16:47 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:16:47 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:16:47 INFO  org.User - QA user print: This is public data
+2024-12-20 11:16:47 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:16:47 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:16:47 INFO  org.User - User user print: This is public data
+2024-12-20 11:16:47 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:16:47 INFO  org.User - User user print: This is specific data
+2024-12-20 11:17:14 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:17:14 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:17:14 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:17:14 INFO  org.User - QA user print: This is public data
+2024-12-20 11:17:14 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:17:14 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:17:14 INFO  org.User - User user print: This is public data
+2024-12-20 11:17:14 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:17:14 INFO  org.User - User user print: This is specific data
+2024-12-20 11:19:00 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:19:00 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:19:00 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:19:00 INFO  org.User - QA user print: This is public data
+2024-12-20 11:19:00 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:19:00 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:19:00 INFO  org.User - User user print: This is public data
+2024-12-20 11:19:00 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:19:00 INFO  org.User - User user print: This is specific data
+2024-12-20 11:19:09 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:19:09 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:19:09 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:19:09 INFO  org.User - QA user print: This is public data
+2024-12-20 11:19:09 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:19:09 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:19:09 INFO  org.User - User user print: This is public data
+2024-12-20 11:19:09 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:19:09 INFO  org.User - User user print: This is specific data
+2024-12-20 11:21:10 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:21:10 INFO  org.User - org.User@11bd0f3b user print: This is public data
+2024-12-20 11:21:10 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:21:10 INFO  org.User - org.User@11bd0f3b user print: This is sensitive data
+2024-12-20 11:21:10 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:21:10 INFO  org.User - org.User@11bd0f3b user print: This is specific data
+2024-12-20 11:21:10 INFO  org.User - QA user print: This is public data
+2024-12-20 11:21:10 INFO  org.User - org.User@c333c60 user print: This is public data
+2024-12-20 11:21:10 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:21:10 INFO  org.User - org.User@c333c60 user print: This is sensitive data
+2024-12-20 11:21:10 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:21:10 INFO  org.User - User user print: This is public data
+2024-12-20 11:21:10 INFO  org.User - org.User@66498326 user print: This is public data
+2024-12-20 11:21:10 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:21:10 INFO  org.User - User user print: This is specific data
+2024-12-20 11:21:10 INFO  org.User - org.User@66498326 user print: This is specific data
+2024-12-20 11:22:12 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:22:12 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:22:12 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:22:12 INFO  org.User - QA user print: This is public data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:22:12 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:22:12 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:22:12 INFO  org.User - User user print: This is public data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:22:12 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:22:12 INFO  org.User - User user print: This is specific data
+2024-12-20 11:22:12 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:24:30 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:24:30 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:24:30 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:24:30 INFO  org.User - QA user print: This is public data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:24:30 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:24:30 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:24:30 INFO  org.User - User user print: This is public data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:24:30 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:24:30 INFO  org.User - User user print: This is specific data
+2024-12-20 11:24:30 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:28:18 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:28:18 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:28:18 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:28:18 INFO  org.User - QA user print: This is public data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:28:18 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:28:18 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:28:18 INFO  org.User - User user print: This is public data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:28:18 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:28:18 INFO  org.User - User user print: This is specific data
+2024-12-20 11:28:18 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:30:31 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:31 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:30:31 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:30:31 INFO  org.User - QA user print: This is public data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:31 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:30:31 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:30:31 INFO  org.User - User user print: This is public data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:31 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:30:31 INFO  org.User - User user print: This is specific data
+2024-12-20 11:30:31 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:30:48 INFO  org.User - Admin user print: This is public data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:48 INFO  org.User - Admin user print: This is sensitive data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:30:48 INFO  org.User - Admin user print: This is specific data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
+2024-12-20 11:30:48 INFO  org.User - QA user print: This is public data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:48 INFO  org.User - QA user print: This is sensitive data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, QA], message='This is sensitive data'} user print: This is sensitive data
+2024-12-20 11:30:48 ERROR org.User - Information closed for you, MR/MS QA. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:30:48 INFO  org.User - User user print: This is public data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, QA, USER], message='This is public data'} user print: This is public data
+2024-12-20 11:30:48 ERROR org.User - Information closed for you, MR/MS User. Please SIGN_UP on https://podcastle.ai/editor/signup and connect with ADMIN to get the correct role for access to Data.
+2024-12-20 11:30:48 INFO  org.User - User user print: This is specific data
+2024-12-20 11:30:48 INFO  org.User - Datatype{roles=[ADMIN, USER], message='This is specific data'} user print: This is specific data
